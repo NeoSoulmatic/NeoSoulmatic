@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Infrastructure Engineer → SRE | Platform Engineering | Civic Tech
+8+ years of enterprise infrastructure experience (IBM Z, DS8K, EMC VMAX, Brocade) at JPMorgan Chase, currently transitioning into Site Reliability Engineering with a focus on observability, drift detection, and platform tooling.
+Built and deployed a firmware compliance dashboard to production. Actively developing skills in Kubernetes, Terraform, Argo CD, and Datadog toward a Platform Engineer target profile.
+Holds an MS in IT Management (WGU) and AWS Cloud Practitioner certification. Pursuing Datadog Fundamentals cert June 2026.
+Long-term interests: civic tech infrastructure, progressive organizing tooling, and financial optionality through freelance/consulting.
+
 <!--
 **NeoSoulmatic/NeoSoulmatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
